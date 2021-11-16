@@ -1,0 +1,21 @@
+1. 
+ 1.1 First experience with functions DONE
+ 1.2 Arrays DONE
+ 1.3 dependencies DONE
+ 1.4 file manipulation
+ 1.5 callbacks
+ 1.6 timers
+ 1.7 downloading data from web
+ 1.8 processing data from web 
+ 1.9 data in excel file ()
+ 1.10 Experience with writing PDF
+
+2 Activity:(Learn JS)
+ 2.1 Read data from a website
+ 2.2 Process data : get all teams
+ 2.3 write processed data in excel
+ 2.4 Create Folders for each teams
+ 2.5 PDF file for score card of each mathc in relavent Folders
+
+
+  
