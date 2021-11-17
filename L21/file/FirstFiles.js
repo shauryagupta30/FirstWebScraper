@@ -1,6 +1,9 @@
 let minimist = require("minimist");
+// node FirstFiles.js --source=f1.txt --dest=f2.txt
+
+
 let args = minimist(process.argv);
-// node FirstFiles.js --source=f1.txt --source=f2.txt
+
 let fs = require("fs");
 
 //step 1 read
