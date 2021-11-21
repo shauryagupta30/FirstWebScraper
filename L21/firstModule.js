@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let parser = require('minimist')
 let args = parser(process.argv)
 
