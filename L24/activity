@@ -1,0 +1,5 @@
+Read data from a source
+process data gat all teams
+write processed data in excel: match results / Team in their own sheet
+create folders: One for each teams
+write files : PDf files for scorecard for each match in the relevant folder
