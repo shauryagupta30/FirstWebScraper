@@ -22,7 +22,7 @@ fs.readFile(args.source,"utf-8" , function(err,data){
   
     //node firstWebDownload.js --dest="download.html" --url="https://www.espncricinfsdfvso.com/series/icc-cricket-world-cup-2019-1144415/match-results"
     let desc = document.querySelectorAll("div.match-info > div.description");
-
+                                        //iss class ke andar ek class hai usko access karna hai
     for(let i=0;i<desc.length; i++)
     {console.log(desc[i].textContent);}
 
