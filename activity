@@ -1,5 +1,5 @@
-Read data from a source
-process data gat all teams
-write processed data in excel: match results / Team in their own sheet
-create folders: One for each teams
-write files : PDf files for scorecard for each match in the relevant folder
+Read data from a source (axios)
+process data gat all teams (jsdom)
+write processed data in excel: match results / Team in their own sheet (excel4node)
+create folders: One for each teams(fs)
+write files : PDf files for scorecard for each match in the relevant folder(?)
