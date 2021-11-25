@@ -15,7 +15,7 @@ fs.readFile(args.source,"utf-8",function(err,json){
         //to access the properties 
         //convert the string JSON to JSO
         let teams123 = JSON.parse(json);
-
+        console.log(teams123[1]);
     }
 })
 
